@@ -6,3 +6,6 @@ __pycache__/
 venv/
 *.egg-info/
 .env
+# MTBBench downsampled images are pulled separately from HF (~1.3GB)
+data/MTBBench/data/**/*.jpg
+data/MTBBench/data/**/*.png

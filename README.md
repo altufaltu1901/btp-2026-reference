@@ -52,5 +52,9 @@ Our paper explainers / BTP report stay in the main project folder.
 - Nature Cancer: code (multimodal tools stubbed) + all 6 supplements incl. figure
   source data — DONE
 - HCC-STAR: arXiv source only; no code/data exists to collect
-- Optional next: clone MTBBench (github.com/bunnelab/MTBBench + HF dataset);
-  SEER extraction for a HCC-STAR replication
+- MTBBench: code repo + agent logs + trained ABMIL tool + full benchmark Q&A
+  (573 questions) + per-case text/JSON data — DONE (see `data/MTBBench/NOTES.md`
+  for how it works, current SOTA scores, and BTP relevance). Images not included
+  (HF ~1.3 GB / gated source datasets).
+- Optional next: SEER extraction for a HCC-STAR replication (needs SEER access
+  request); pull MTBBench images if we run it multimodally.
