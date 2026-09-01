@@ -52,6 +52,10 @@ Our paper explainers / BTP report stay in the main project folder.
 - Nature Cancer: code (multimodal tools stubbed) + all 6 supplements incl. figure
   source data — DONE
 - HCC-STAR: arXiv source only; no code/data exists to collect
+- EvoMDT (npj Digital Medicine 2026): PDF + Supplementary Information + notes —
+  self-evolving multi-agent MDT system, does HCC at lesion level. Code promised at
+  github.com/KesselZ/EvoMDT but not published yet (404); data private. See
+  `data/EvoMDT/NOTES.md`.
 - MTBBench: code repo + agent logs + trained ABMIL tool + full benchmark Q&A
   (573 questions) + per-case text/JSON data — DONE (see `data/MTBBench/NOTES.md`
   for how it works, current SOTA scores, and BTP relevance). Images not included

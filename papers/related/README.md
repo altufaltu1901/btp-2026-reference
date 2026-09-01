@@ -27,6 +27,21 @@ recommendations: A nationwide retrospective registry study."*
 concordance is **associated with better survival in early-stage HCC, not advanced**.
 The key citation for "why concordance is a meaningful endpoint" in HCC specifically.
 
+### EvoMDT — `EvoMDT_npj-Digital-Medicine-2026_s41746-025-02304-8.pdf`
+Liu, Hu, Huang, Niu, Zhang et al. npj Digital Medicine 9:124 (2026).
+doi:10.1038/s41746-025-02304-8. Open access (CC BY-NC-ND).
+*"EvoMDT: a self-evolving multi-agent system for structured clinical decision-making in multi-cancer."*
+**Very close to our architecture** — domain-specific agents over lesion-level clinical
+data + structured guideline RAG + a consensus protocol producing traceable,
+evidence-linked recs. Adds a **self-evolution loop** (updates prompts, consensus
+weights, retrieval scope from expert feedback + outcome signals). Evaluated on 6
+public oncology QA benchmarks + 4 real-world datasets — **one of which is HCC**
+(also breast, lung adeno, lymphoma), plus single-blind physician rating
+(ROUGE / BERTScore / safety checks + clinical-appropriateness Likert).
+Data: private (corresponding-author request). Code: promised at
+https://github.com/KesselZ/EvoMDT — **not public yet** (404 as of 2026-09-02).
+Supplement + notes: `data/EvoMDT/`.
+
 ---
 Other strong ones we didn't pull (all in Related-Work-Scan.md with links):
 Frontiers 2026 review (LLMs → multi-agent), JCO CCI 2026 Nazha multiagent guideline
