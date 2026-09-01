@@ -42,6 +42,14 @@ Data: private (corresponding-author request). Code: promised at
 https://github.com/KesselZ/EvoMDT — **not public yet** (404 as of 2026-09-02).
 Supplement + notes: `data/EvoMDT/`.
 
+### BCLC 2026 update — `BCLC-2026-update_prognosis-and-treatment_J-Hepatology-2026.pdf`
+Reig, Sanduzzi-Zamparelli, Forner, Bruix et al. J Hepatology (2026).
+*"BCLC strategy for prognosis prediction and treatment recommendations: The 2026 update."*
+Not an AI paper — the **primary clinical reference** for HCC staging + first-line
+treatment allocation that our system's recommendations are graded against. The
+2026 revision folds in recent systemic-therapy advances while keeping the stage →
+first-line-treatment mapping. Ground-truth guideline for the HCC arm.
+
 ---
 Other strong ones we didn't pull (all in Related-Work-Scan.md with links):
 Frontiers 2026 review (LLMs → multi-agent), JCO CCI 2026 Nazha multiagent guideline
