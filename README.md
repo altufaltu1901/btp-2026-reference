@@ -6,10 +6,10 @@ tumour board) builds on. Collected 2026-09-02.
 ## Layout
 
 ```
-papers/   the three paper PDFs
-code/     source code released with each paper (upstream .git removed; see licenses inside)
-data/     released / obtainable datasets + notes on what is private
-docs/     our own write-ups (paper explainers, BTP report, project overview)
+papers/          the three core paper PDFs
+papers/related/  2-3 further papers that most shape the BTP (see its README)
+code/            source code released with each paper (upstream .git removed; see licenses inside)
+data/            released / obtainable datasets, supplements, + notes on what is private
 ```
 
 ## The three papers
@@ -43,9 +43,14 @@ doi:10.1038/s41591-026-04494-4
   cases and the 555 external / 64 prospective validation cases are Heidelberg
   patient data — not released.
 
-## Our own project code
-Not in this repo — lives at https://github.com/hmi-iiitd/AITumorBoard
+## Our own project code + write-ups
+Not in this repo. Code: https://github.com/hmi-iiitd/AITumorBoard
+Our paper explainers / BTP report stay in the main project folder.
 
-## TODO / still missing
-- HemaGuide + Nature Cancer supplementary files & "source data" (need institutional access)
-- SEER extraction for a HCC-STAR replication (optional)
+## Status
+- HemaGuide: code (complete) + all 4 supplements + benchmark cases — DONE
+- Nature Cancer: code (multimodal tools stubbed) + all 6 supplements incl. figure
+  source data — DONE
+- HCC-STAR: arXiv source only; no code/data exists to collect
+- Optional next: clone MTBBench (github.com/bunnelab/MTBBench + HF dataset);
+  SEER extraction for a HCC-STAR replication
