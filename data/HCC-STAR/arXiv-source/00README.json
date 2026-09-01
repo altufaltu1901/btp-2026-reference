@@ -1,0 +1,273 @@
+{
+   "sources" : [
+      {
+         "usage" : "toplevel",
+         "filename" : "HCC_STAR_arxiv_readable_main_v2.tex"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "HCC_STAR_arxiv_readable_main_v2.bbl"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "baseline_final_external.tex"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "baseline_full_external.tex"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/60_stats.pdf"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/60_stats_rings.pdf"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/HCC-overview.pdf"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/HCC_reasoner_overview.pdf"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/HCC_reasoner_overview_1030.pdf"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/HCC_reasoner_overview_1102.pdf"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/HCC_reasoner_overview_2.pdf"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/ai_vs_doctors.pdf"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/backbones_compare.pdf"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/cg_3_top1_accuracy_vs_threshold.svg"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/cg_3_top2_accuracy_vs_threshold.svg"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/cg_3_top3_accuracy_vs_threshold.svg"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/cindex_all.pdf"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/cindex_bar_tasks_pval_external.svg"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/cindex_bar_tasks_pval_internal.svg"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/cindex_internal_external_stylized.svg"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/data_pipline.pdf"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/data_pipline_new.pdf"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/df_ours_km_external_by_supervised_stage.svg"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/df_ours_km_internal_by_supervised_stage.svg"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/evidence_score.pdf"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/external_ours_vs_sft_topn.svg"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/external_topn_accuracy.svg"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/fig_a_topn_grouped.svg"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/fig_b_reason_parts_grouped.svg"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/fig_c_total_reason_boxplot.svg"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/framework_new.pdf"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/hypo_km.pdf"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/internal_ours_vs_sft_topn.svg"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/internal_top1_accuracy_vs_threshold.svg"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/internal_top2_accuracy_vs_threshold.svg"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/internal_top3_accuracy_vs_threshold.svg"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/internal_topn_accuracy.svg"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/km_ours_and_tranditional_13615.svg"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/km_ours_and_tranditional_stages.svg"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/km_stage_external.svg"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/km_stage_internal.svg"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/multicenter_top1_accuracy_vs_threshold.svg"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/multicenter_top2_accuracy_vs_threshold.svg"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/multicenter_top3_accuracy_vs_threshold.svg"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/pooled_external_top1_accuracy_vs_threshold.svg"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/pooled_external_top2_accuracy_vs_threshold.svg"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/pooled_external_top3_accuracy_vs_threshold.svg"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/reasoning_scores.pdf"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/survival_all.pdf"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/survival_risk_groups_full_subplot.svg"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/sys_demo.pdf"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/tdROC_clean_12m.svg"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/tdROC_clean_36m.svg"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/tdROC_clean_60m.svg"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/tdROC_external_12m.svg"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/tdROC_external_36m.svg"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/tdROC_external_60m.svg"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/tdROC_internal_12m.svg"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/tdROC_internal_36m.svg"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/tdROC_internal_60m.svg"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/time_dependent_rocs.pdf"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/topn_and_doctor.pdf"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figs/trans_sys_prompt.pdf"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "sn-bibliography.bib"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "sn-mathphys-num.bst"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "table1_external_full.tex"
+      }
+   ],
+   "spec_version" : 1,
+   "texlive_version" : "2025",
+   "process" : {
+      "compiler" : "pdflatex"
+   }
+}

@@ -1,0 +1,340 @@
+\begin{thebibliography}{10}
+
+\bibitem{chan2025lancet}
+Stephen~Lam Chan, Hui-Chuan Sun, Yang Xu, Hongmei Zeng, Hashem~B El-Serag, Jeong~Min Lee, Myron~E Schwartz, Richard~S Finn, Jinsil Seong, Xin~Wei Wang, et~al.
+\newblock The lancet commission on addressing the global hepatocellular carcinoma burden: comprehensive strategies from prevention to treatment.
+\newblock {\em The Lancet}, 406(10504):731--778, 2025.
+
+\bibitem{bray2024global}
+Freddie Bray, Mathieu Laversanne, Hyuna Sung, Jacques Ferlay, Rebecca~L Siegel, Isabelle Soerjomataram, and Ahmedin Jemal.
+\newblock Global cancer statistics 2022: Globocan estimates of incidence and mortality worldwide for 36 cancers in 185 countries.
+\newblock {\em CA: a cancer journal for clinicians}, 74(3):229--263, 2024.
+
+\bibitem{safri2024heterogeneity}
+Fatema Safri, Romario Nguyen, Shadi Zerehpooshnesfchi, Jacob George, and Liang Qiao.
+\newblock Heterogeneity of hepatocellular carcinoma: from mechanisms to clinical implications.
+\newblock {\em Cancer Gene Therapy}, 31(8):1105--1112, 2024.
+
+\bibitem{rich2020hepatocellular}
+Nicole~E Rich, Binu~V John, Neehar~D Parikh, Ian Rowe, Neil Mehta, Gaurav Khatri, Smitha~M Thomas, Munazza Anis, Mishal Mendiratta-Lala, Christopher Hernandez, et~al.
+\newblock Hepatocellular carcinoma demonstrates heterogeneous growth patterns in a multicenter cohort of patients with cirrhosis.
+\newblock {\em Hepatology}, 72(5):1654--1665, 2020.
+
+\bibitem{cheo2024impact}
+Feng~Yi Cheo, Celeste Hong~Fei Lim, Kai~Siang Chan, and Vishal~Girishchandra Shelat.
+\newblock The impact of waiting time and delayed treatment on the outcomes of patients with hepatocellular carcinoma: A systematic review and meta-analysis.
+\newblock {\em Annals of hepato-biliary-pancreatic surgery}, 28(1):1--13, 2024.
+
+\bibitem{govalan2022therapeutic}
+Rajalakshmi Govalan, Michael Luu, Marie Lauzon, Kambiz Kosari, Joseph~C Ahn, Nicole~E Rich, Nicholas Nissen, Lewis~R Roberts, Amit~G Singal, and Ju~Dong Yang.
+\newblock Therapeutic underuse and delay in hepatocellular carcinoma: prevalence, associated factors, and clinical impact.
+\newblock {\em Hepatology Communications}, 6(1):223--236, 2022.
+
+\bibitem{ajcc8_manual}
+Mahul~B. Amin, Stephen~B. Edge, Frederick~L. Greene, et~al., editors.
+\newblock {\em AJCC Cancer Staging Manual}.
+\newblock Springer, New York, 8 edition, 2017.
+
+\bibitem{Reig2022BCLC}
+Mar{\'\i}a Reig, Aleix Forner, Jordi Rimola, et~al.
+\newblock Bclc strategy for prognosis prediction and treatment recommendation: The 2022 update.
+\newblock {\em Journal of Hepatology}, 76(3):681--693, 2022.
+
+\bibitem{Zhou2023CNLC}
+Jun Zhou, He~Sun, Zhen Wang, et~al.
+\newblock Guidelines for the diagnosis and treatment of primary liver cancer (2022 edition).
+\newblock {\em Hepatobiliary Surgery and Nutrition}, 12(2):149--212, 2023.
+
+\bibitem{llovet_hepatocellular_2021}
+Josep~M. Llovet, Robin~Kate Kelley, Augusto Villanueva, Amit~G. Singal, Eli Pikarsky, Sasan Roayaie, Riccardo Lencioni, Kazuhiko Koike, Jessica Zucman-Rossi, and Richard~S. Finn.
+\newblock Hepatocellular carcinoma.
+\newblock 7(1):6.
+
+\bibitem{yau2014development}
+Thomas Yau, Vikki~YF Tang, Tzy-Jyun Yao, Sheung-Tat Fan, Chung-Mau Lo, and Ronnie~TP Poon.
+\newblock Development of hong kong liver cancer staging system with treatment stratification for patients with hepatocellular carcinoma.
+\newblock {\em Gastroenterology}, 146(7):1691--1700, 2014.
+
+\bibitem{Brown2020GPT3}
+Tom~B. Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared Kaplan, Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell, et~al.
+\newblock Language models are few-shot learners.
+\newblock In {\em Advances in Neural Information Processing Systems}, volume~33, pages 1877--1901, 2020.
+
+\bibitem{OpenAI2023GPT4}
+OpenAI.
+\newblock Gpt-4 technical report.
+\newblock {\em arXiv preprint arXiv:2303.08774}, 2023.
+
+\bibitem{ouyang2022training}
+Long Ouyang, Jeffrey Wu, Xu~Jiang, Diogo Almeida, Carroll Wainwright, Pamela Mishkin, Chong Zhang, Sandhini Agarwal, Katarina Slama, Alex Ray, et~al.
+\newblock Training language models to follow instructions with human feedback.
+\newblock {\em Advances in neural information processing systems}, 35:27730--27744, 2022.
+
+\bibitem{wei2022chain}
+Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Fei Xia, Ed~Chi, Quoc~V Le, Denny Zhou, et~al.
+\newblock Chain-of-thought prompting elicits reasoning in large language models.
+\newblock {\em Advances in neural information processing systems}, 35:24824--24837, 2022.
+
+\bibitem{shao_deepseekmath_2024}
+Zhihong Shao, Peiyi Wang, Qihao Zhu, Runxin Xu, Junxiao Song, Xiao Bi, Haowei Zhang, Mingchuan Zhang, Y.~K. Li, Y.~Wu, and Daya Guo.
+\newblock Deepseekmath: Pushing the limits of mathematical reasoning in open language models.
+\newblock {\em arXiv}, 2024.
+\newblock Introduces GRPO (Group Relative Policy Optimization).
+
+\bibitem{BioMedLM}
+{Stanford CRFM}.
+\newblock Biomedlm: a domain-specific large language model for biomedical research.
+\newblock {\em arXiv preprint arXiv:2304.05381}, 2023.
+
+\bibitem{BioGPT}
+Renqian Luo et~al.
+\newblock Biogpt: generative pre-trained transformer for biomedical text generation and mining.
+\newblock {\em Briefings in Bioinformatics}, 24(1):bbac409, 2023.
+
+\bibitem{MedPaLM}
+Karan Singhal et~al.
+\newblock Large language models encode clinical knowledge.
+\newblock {\em Nature}, 620:172--180, 2023.
+
+\bibitem{MedPaLM2}
+Karan Singhal et~al.
+\newblock Evaluating large language models trained on medical knowledge.
+\newblock {\em arXiv preprint arXiv:2305.09617}, 2023.
+
+\bibitem{liu2025generalist}
+Xiaohong Liu, Hao Liu, Guoxing Yang, Zeyu Jiang, Shuguang Cui, Zhaoze Zhang, Huan Wang, Liyuan Tao, Yongchang Sun, Zhu Song, et~al.
+\newblock A generalist medical language model for disease diagnosis assistance.
+\newblock {\em Nature medicine}, 31(3):932--942, 2025.
+
+\bibitem{zhu2025large}
+Menglei Zhu, Hui Lin, Jue Jiang, Abbas~J Jinia, Justin Jee, Karl Pichotta, Michele Waters, Doori Rose, Nikolaus Schultz, Sulov Chalise, et~al.
+\newblock Large language model trained on clinical oncology data predicts cancer progression.
+\newblock {\em npj Digital Medicine}, 8(1):397, 2025.
+
+\bibitem{qiu2025quantifying}
+Pengcheng Qiu, Chaoyi Wu, Shuyu Liu, Yanjie Fan, Weike Zhao, Zhuoxia Chen, Hongfei Gu, Chuanjin Peng, Ya~Zhang, Yanfeng Wang, et~al.
+\newblock Quantifying the reasoning abilities of llms on clinical cases.
+\newblock {\em Nature Communications}, 16(1):9799, 2025.
+
+\bibitem{hager2024evaluation}
+Paul Hager, Friederike Jungmann, Robbie Holland, Kunal Bhagat, Inga Hubrecht, Manuel Knauer, Jakob Vielhauer, Marcus Makowski, Rickmer Braren, Georgios Kaissis, et~al.
+\newblock Evaluation and mitigation of the limitations of large language models in clinical decision-making.
+\newblock {\em Nature medicine}, 30(9):2613--2622, 2024.
+
+\bibitem{jin2019pubmedqa}
+Qiao Jin, Bhuwan Dhingra, Zhengping Liu, William~W Cohen, and Xinghua Lu.
+\newblock Pubmedqa: A dataset for biomedical research question answering.
+\newblock {\em arXiv preprint arXiv:1909.06146}, 2019.
+
+\bibitem{kung2023performance}
+Tiffany~H Kung, Morgan Cheatham, Arielle Medenilla, Czarina Sillos, Lorie De~Leon, Camille Elepa{\~n}o, Maria Madriaga, Rimel Aggabao, Giezel Diaz-Candido, James Maningo, et~al.
+\newblock Performance of chatgpt on usmle: potential for ai-assisted medical education using large language models.
+\newblock {\em PLoS digital health}, 2(2):e0000198, 2023.
+
+\bibitem{li2024integrated}
+Jiajia Li, Zhouyu Guan, Jing Wang, Carol~Y Cheung, Yingfeng Zheng, Lee-Ling Lim, Cynthia~Ciwei Lim, Paisan Ruamviboonsuk, Rajiv Raman, Leonor Corsino, et~al.
+\newblock Integrated image-based deep learning and language models for primary diabetes care.
+\newblock {\em Nature medicine}, 30(10):2886--2896, 2024.
+
+\bibitem{wu2025eyecare}
+Yilan Wu, Bo~Qian, Tingyao Li, Yiming Qin, Zhouyu Guan, Tingli Chen, Yali Jia, Ping Zhang, Dian Zeng, Sayoko Moroi, et~al.
+\newblock An eyecare foundation model for clinical assistance: a randomized controlled trial.
+\newblock {\em Nature Medicine}, pages 1--10, 2025.
+
+\bibitem{HEROVision}
+Hao Zhang et~al.
+\newblock Vision transformer-based model can optimize curative-intent treatment for patients with recurrent hepatocellular carcinoma.
+\newblock {\em Nature Communications}, 16(4081), 2025.
+
+\bibitem{DosovitskiyB0WZ21}
+Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, and Neil Houlsby.
+\newblock An image is worth 16x16 words: Transformers for image recognition at scale.
+\newblock In {\em 9th International Conference on Learning Representations}, 2021.
+
+\bibitem{seer_overview}
+{National Cancer Institute}.
+\newblock Overview of the seer program.
+\newblock \url{https://seer.cancer.gov/about/overview.html}.
+\newblock Accessed 2025-08-25.
+
+\bibitem{jia2024chinese}
+Fan Jia et~al.
+\newblock Chinese expert consensus on conversion and perioperative therapy of primary liver cancer (2024 edition).
+\newblock {\em Chinese Journal of Digestive Surgery}, 23(4):492--513, 2024.
+
+\bibitem{cot}
+Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia, Ed~H. Chi, Quoc~V. Le, and Denny Zhou.
+\newblock Chain-of-thought prompting elicits reasoning in large language models.
+\newblock In {\em Advances in Neural Information Processing Systems}, 2022.
+
+\bibitem{openai_gpt5_2025}
+{OpenAI}.
+\newblock Introducing gpt-5.
+\newblock \url{https://openai.com/index/introducing-gpt-5/}, 2025.
+\newblock Accessed Oct 17, 2025.
+
+\bibitem{google_gemini25_2025}
+{Google DeepMind}.
+\newblock Gemini 2.5: Our most intelligent ai model.
+\newblock \url{https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/}, 2025.
+\newblock Blog post, Mar 25, 2025.
+
+\bibitem{openai_gpt4o_syscard}
+{OpenAI}.
+\newblock Gpt-4o system card.
+\newblock \url{https://openai.com/index/gpt-4o-system-card/}, 2024.
+
+\bibitem{anthropic_claude35_2024}
+{Anthropic}.
+\newblock Introducing claude 3.5 sonnet.
+\newblock \url{https://www.anthropic.com/news/claude-3-5-sonnet}, June 2024.
+
+\bibitem{deepseek_r1_2025}
+Daya Guo, Dejian Yang, Haowei Zhang, Junxiao Song, Peiyi Wang, Qihao Zhu, Runxin Xu, Ruoyu Zhang, Shirong Ma, Xiao Bi, Xiaokang Zhang, Xingkai Yu, Yu~Wu, Z.~F. Wu, Zhibin Gou, Zhihong Shao, Zhuoshu Li, Ziyi Gao, Aixin Liu, Bing Xue, Bingxuan Wang, Bochao Wu, Bei Feng, Chengda Lu, Chenggang Zhao, Chengqi Deng, Chong Ruan, Damai Dai, Deli Chen, Dongjie Ji, Erhang Li, Fangyun Lin, Fucong Dai, Fuli Luo, Guangbo Hao, Guanting Chen, Guowei Li, H.~Zhang, Hanwei Xu, Honghui Ding, Huazuo Gao, Hui Qu, Hui Li, Jianzhong Guo, Jiashi Li, Jingchang Chen, Jingyang Yuan, Jinhao Tu, Junjie Qiu, Junlong Li, J.~L. Cai, Jiaqi Ni, Jian Liang, Jin Chen, Kai Dong, Kai Hu, Kaichao You, Kaige Gao, Kang Guan, Kexin Huang, Kuai Yu, Lean Wang, Lecong Zhang, Liang Zhao, Litong Wang, Liyue Zhang, Lei Xu, Leyi Xia, Mingchuan Zhang, Minghua Zhang, Minghui Tang, Mingxu Zhou, Meng Li, Miaojun Wang, Mingming Li, Ning Tian, Panpan Huang, Peng Zhang, Qiancheng Wang, Qinyu Chen, Qiushi Du, Ruiqi Ge, Ruisong Zhang, Ruizhe Pan, Runji Wang, R.~J.
+  Chen, R.~L. Jin, Ruyi Chen, Shanghao Lu, Shangyan Zhou, Shanhuang Chen, Shengfeng Ye, Shiyu Wang, Shuiping Yu, Shunfeng Zhou, Shuting Pan, S.~S. Li, Shuang Zhou, Shaoqing Wu, Tao Yun, Tian Pei, Tianyu Sun, T.~Wang, Wangding Zeng, Wen Liu, Wenfeng Liang, Wenjun Gao, Wenqin Yu, Wentao Zhang, W.~L. Xiao, Wei An, Xiaodong Liu, Xiaohan Wang, Xiaokang Chen, Xiaotao Nie, Xin Cheng, Xin Liu, Xin Xie, Xingchao Liu, Xinyu Yang, Xinyuan Li, Xuecheng Su, Xuheng Lin, X.~Q. Li, Xiangyue Jin, Xiaojin Shen, Xiaosha Chen, Xiaowen Sun, Xiaoxiang Wang, Xinnan Song, Xinyi Zhou, Xianzu Wang, Xinxia Shan, Y.~K. Li, Y.~Q. Wang, Y.~X. Wei, Yang Zhang, Yanhong Xu, Yao Li, Yao Zhao, Yaofeng Sun, Yaohui Wang, Yi~Yu, Yichao Zhang, Yifan Shi, Yiliang Xiong, Ying He, Yishi Piao, Yisong Wang, Yixuan Tan, Yiyang Ma, Yiyuan Liu, Yongqiang Guo, Yuan Ou, Yuduan Wang, Yue Gong, Yuheng Zou, Yujia He, Yunfan Xiong, Yuxiang Luo, Yuxiang You, Yuxuan Liu, Yuyang Zhou, Y.~X. Zhu, Yanping Huang, Yaohui Li, Yi~Zheng, Yuchen Zhu, Yunxian Ma, Ying
+  Tang, Yukun Zha, Yuting Yan, Z.~Z. Ren, Zehui Ren, Zhangli Sha, Zhe Fu, Zhean Xu, Zhenda Xie, Zhengyan Zhang, Zhewen Hao, Zhicheng Ma, Zhigang Yan, Zhiyu Wu, Zihui Gu, Zijia Zhu, Zijun Liu, Zilin Li, Ziwei Xie, Ziyang Song, Zizheng Pan, Zhen Huang, Zhipeng Xu, Zhongyu Zhang, and Zhen Zhang.
+\newblock {DeepSeek}-r1 incentivizes reasoning in {LLMs} through reinforcement learning.
+\newblock 645(8081):633--638.
+
+\bibitem{qwen3_2025}
+An~Yang and Qwen Team.
+\newblock Qwen3 technical report.
+\newblock {\em arXiv}, 2025.
+
+\bibitem{qwq32b}
+Qwen Team.
+\newblock Qwq-32b: Embracing the power of reinforcement learning, March 2025.
+
+\bibitem{xie2025logicrl}
+Tian Xie, Zitian Gao, Qingnan Ren, Haoming Luo, Yuqian Hong, Bryan Dai, Joey Zhou, Kai Qiu, Zhirong Wu, and Chong Luo.
+\newblock Logic-rl: Unleashing llm reasoning with rule-based reinforcement learning.
+\newblock {\em arXiv preprint arXiv:2502.14768}, 2025.
+
+\bibitem{hua2025disentangling}
+Wenyue Hua, Kaijie Zhu, Lingyao Li, Lizhou Fan, Mingyu Jin, Shuhang Lin, Haochen Xue, Zelong Li, JinDong Wang, and Yongfeng Zhang.
+\newblock Disentangling logic: The role of context in large language model reasoning capabilities.
+\newblock In {\em Findings of the Association for Computational Linguistics: ACL 2025}, pages 19219--19242, 2025.
+
+\bibitem{kang2024learning}
+Katie Kang, Amrith Setlur, Dibya Ghosh, Jacob Steinhardt, Claire Tomlin, Sergey Levine, and Aviral Kumar.
+\newblock What do learning dynamics reveal about generalization in llm reasoning?
+\newblock {\em arXiv preprint arXiv:2411.07681}, 2024.
+
+\bibitem{xiang_visionlanguage_2025}
+Jinxi Xiang, Xiyue Wang, Xiaoming Zhang, Yinghua Xi, Feyisope Eweje, Yijiang Chen, Yuchen Li, Colin Bergstrom, Matthew Gopaulchan, Ted Kim, Kun-Hsing Yu, Sierra Willens, Francesca~Maria Olguin, Jeffrey~J. Nirschl, Joel Neal, Maximilian Diehn, Sen Yang, and Ruijiang Li.
+\newblock A vision–language foundation model for precision oncology.
+\newblock 638(8051):769--778.
+
+\bibitem{Menglei}
+Menglei Zhu, Hui Lin, Jue Jiang, Abbas~J. Jinia, Justin Jee, Karl Pichotta, Michele Waters, Doori Rose, Nikolaus Schultz, Sulov Chalise, Lohit Valleru, Olivier Morin, Jean Moran, Joseph~O. Deasy, Shirin Pilai, Chelsea Nichols, Gregory Riely, Lior~Z. Braunstein, and Anyi Li.
+\newblock Large language model trained on clinical oncology data predicts cancer progression.
+\newblock {\em npj Digit. Medicine}, 8(1), 2025.
+
+\bibitem{banerji2023clinical}
+Christopher~RS Banerji, Tapabrata Chakraborti, Chris Harbron, and Ben~D MacArthur.
+\newblock Clinical ai tools must convey predictive uncertainty for each individual patient.
+\newblock {\em Nature medicine}, 29(12):2996--2998, 2023.
+
+\bibitem{wang2025hide}
+Liyuan Wang, Jingyi Xie, Xingxing Zhang, Hang Su, and Jun Zhu.
+\newblock Hide-pet: continual learning via hierarchical decomposition of parameter-efficient tuning.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence}, 2025.
+
+\bibitem{ji2024towards}
+Haozhe Ji, Cheng Lu, Yilin Niu, Pei Ke, Hongning Wang, Jun Zhu, Jie Tang, and Minlie Huang.
+\newblock Towards efficient exact optimization of language model alignment.
+\newblock In {\em International Conference on Machine Learning}, pages 21648--21671. PMLR, 2024.
+
+\bibitem{zhangstair}
+Yichi Zhang, Siyuan Zhang, Yao Huang, Zeyu Xia, Zhengwei Fang, Xiao Yang, Ranjie Duan, Dong Yan, Yinpeng Dong, and Jun Zhu.
+\newblock Stair: Improving safety alignment with introspective reasoning.
+\newblock In {\em Forty-second International Conference on Machine Learning}.
+
+\bibitem{wma_helsinki_2013}
+World~Medical Association.
+\newblock World medical association declaration of helsinki: Ethical principles for medical research involving human subjects.
+\newblock {\em JAMA}, 310(20):2191--2194, 2013.
+
+\bibitem{usda_rucc2013}
+{U.S. Department of Agriculture, Economic Research Service}.
+\newblock Rural{-}urban continuum codes (2013).
+\newblock \url{https://www.ers.usda.gov/data-products/rural-urban-continuum-codes}.
+\newblock Accessed 2025-08-25.
+
+\bibitem{icdo3_who2013}
+{World Health Organization}.
+\newblock {\em International Classification of Diseases for Oncology (ICD-O), 3rd ed., 1st revision}.
+\newblock World Health Organization, Geneva, 2013.
+\newblock Accessed 2025-08-25.
+
+\bibitem{oken_ecog_1982}
+M.~M. Oken, R.~H. Creech, D.~C. Tormey, J.~Horton, T.~E. Davis, E.~T. McFadden, and P.~P. Carbone.
+\newblock Toxicity and response criteria of the eastern cooperative oncology group.
+\newblock {\em American Journal of Clinical Oncology}, 5(6):649--655, 1982.
+
+\bibitem{pugh_childpugh_1973}
+R.~N.~H. Pugh, I.~M. Murray-Lyon, J.~L. Dawson, M.~C. Pietroni, and R.~Williams.
+\newblock Transection of the oesophagus for bleeding oesophageal varices.
+\newblock {\em British Journal of Surgery}, 60(8):646--649, 1973.
+
+\bibitem{chu2025sft}
+Tianzhe Chu, Yuexiang Zhai, Jihan Yang, Shengbang Tong, Saining Xie, Dale Schuurmans, Quoc~V. Le, Sergey Levine, and Yi~Ma.
+\newblock Sft memorizes, rl generalizes: A comparative study of foundation model post-training.
+\newblock {\em arXiv preprint arXiv:2501.17161}, 2025.
+
+\bibitem{chen_checkpoint_2016}
+Tianqi Chen, Bing Xu, Chiyuan Zhang, and Carlos Guestrin.
+\newblock Training deep nets with sublinear memory cost.
+\newblock {\em arXiv}, 2016.
+
+\bibitem{micikevicius_mixed_2017}
+Paulius Micikevicius, Sharan Narang, Jonah Alben, Greg Diamos, Erich Elsen, David Garcia, Boris Ginsburg, Michael Houston, Oleksii Kuchaiev, Ganesh Venkatesh, and Hao Wu.
+\newblock Mixed precision training.
+\newblock {\em arXiv}, 2017.
+
+\bibitem{luowizardmath}
+Haipeng Luo, Qingfeng Sun, Can Xu, Pu~Zhao, Jian-Guang Lou, Chongyang Tao, Xiubo Geng, Qingwei Lin, Shifeng Chen, Yansong Tang, et~al.
+\newblock Wizardmath: Empowering mathematical reasoning for large language models via reinforced evol-instruct.
+\newblock In {\em The Thirteenth International Conference on Learning Representations}.
+
+\bibitem{chen2025bridging}
+Huayu Chen, Kaiwen Zheng, Qinsheng Zhang, Ganqu Cui, Yin Cui, Haotian Ye, Tsung-Yi Lin, Ming-Yu Liu, Jun Zhu, and Haoxiang Wang.
+\newblock Bridging supervised learning and reinforcement learning in math reasoning.
+\newblock {\em arXiv preprint arXiv:2505.18116}, 2025.
+
+\bibitem{schulman_ppo_2017}
+John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, and Oleg Klimov.
+\newblock Proximal policy optimization algorithms.
+\newblock {\em arXiv}, 2017.
+
+\bibitem{kaplan_meier_1958}
+Edward~L. Kaplan and Paul Meier.
+\newblock Nonparametric estimation from incomplete observations.
+\newblock {\em Journal of the American Statistical Association}, 53(282):457--481, 1958.
+
+\bibitem{cox1972}
+D.~R. Cox.
+\newblock Regression models and life-tables.
+\newblock {\em Journal of the Royal Statistical Society: Series B (Methodological)}, 34(2):187--220, 1972.
+
+\bibitem{cortes1995svm}
+Corinna Cortes and Vladimir Vapnik.
+\newblock Support-vector networks.
+\newblock {\em Machine Learning}, 20(3):273--297, 1995.
+
+\bibitem{chen2016xgboost}
+Tianqi Chen and Carlos Guestrin.
+\newblock Xgboost: A scalable tree boosting system.
+\newblock In {\em Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining}, pages 785--794, 2016.
+
+\bibitem{van2021bayesian}
+Rens Van~de Schoot, Sarah Depaoli, Ruth King, Bianca Kramer, Kaspar M{\"a}rtens, Mahlet~G Tadesse, Marina Vannucci, Andrew Gelman, Duco Veen, Joukje Willemsen, et~al.
+\newblock Bayesian statistics and modelling.
+\newblock {\em Nature Reviews Methods Primers}, 1(1):1, 2021.
+
+\bibitem{rumelhart1986backprop}
+David~E. Rumelhart, Geoffrey~E. Hinton, and Ronald~J. Williams.
+\newblock Learning representations by back-propagating errors.
+\newblock {\em Nature}, 323(6088):533--536, 1986.
+
+\end{thebibliography}
