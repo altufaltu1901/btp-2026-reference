@@ -1,0 +1,32 @@
+<jats:p>Background/Objectives: Treatment allocation for hepatocellular carcinoma (HCC) is a highly complex task that requires multidisciplinary tumor board (MDT) input; however, its accessibility and reliability can vary across the healthcare system. Large language models (LLMs) have emerged as potential clinical decision-making tools to aid MDTs. Our aim was to compare different LLM-generated treatment recommendations for HCC cases with MDT decisions. Methods: We retrospectively analyzed 100 HCC cases discussed during MDT meetings in a tertiary-care hospital in Cluj-Napoca, Romania. Identical prompts and structured clinical information were offered to four different LLMs (ChatGPT-5, a customized Tumor Board ChatGPT, Gemini 2.5 Flash, and Gemini 2.5 Pro), each of which was required to provide treatment recommendations. Concordance with the MDT decisions was assessed across the first, second, and third treatment options. Inter-model differences were evaluated using Cochran’s Q and Holm-adjusted exact McNemar tests. Chance-corrected agreement was assessed using Cohen’s kappa (κ), and generalized estimating equations evaluated associations between concordance and clinical complexity. Results: First-recommendation concordance was 81% (95% CI 72.2–87.5) for GPT-5, 80% (71.1–86.7) for Gemini 2.5 Pro, 78% (68.9–85.0) for TumorBoard ChatGPT, and 63% (53.2–71.8) for Gemini 2.5 Flash; cumulative top-3 concordance reached 95%, 92%, 95%, and 86%, respectively. GPT-5 (κ = 0.754) and Gemini 2.5 Pro (κ = 0.743) showed substantial chance-corrected agreement. Gemini 2.5 Flash showed significantly lower concordance, including after adjustment for BCLC stage, Child–Pugh class, tumor burden, and treatment category (p = 0.006), while these clinical complexity variables were not significantly associated with concordance. Conclusions: LLMs showed moderate-to-substantial agreement with MDT decisions, with meaningful inter-model differences, for a complex disease, such as HCC. Our study highlights that, while the need for human oversight is essential, LLMs could serve as supportive tools for expert guidance in some clinical settings and underscore AI’s potential in enhancing liver cancer care.</jats:p>
+{'key': 'ref_1', 'first-page': '209', 'article-title': 'Global Cancer Statistics 2020: GLOBOCAN Estimates of Incidence and Mortality Worldwide for 36 Cancers in 185 Countries', 'volume': '71', 'author': 'Sung', 'year': '2021', 'journal-title': 'CA Cancer J. Clin.'}
+10.1038/s41571-023-00825-3
+10.1016/j.jhep.2025.10.020
+10.1016/j.jhep.2024.08.028
+10.1097/HEP.0000000000000466
+10.1002/hep.32240
+10.1245/s10434-013-3413-8
+10.1053/j.gastro.2017.02.040
+10.1136/bmjopen-2024-087268
+Grapă, C., Mocan, T., Mocan, L.P., Motofelea, A., Stănciulescu, R., Crăciun, R., Vârciu, A., Spârchez, Z., and Mocan, T. (2025). Turning the Tide—Artificial Intelligence in the Evolving Landscape of Liver Cancer. Cancers, 17.
+10.1016/j.jhepr.2025.101540
+Schmidl, B., Hütten, T., Pigorsch, S., Stögbauer, F., Hoch, C.C., Hussain, T., Wollenberg, B., and Wirth, M. (2024). Assessing the Role of Advanced Artificial Intelligence as a Tool in Multidisciplinary Tumor Board Decision-Making for Recurrent/Metastatic Head and Neck Cancer Cases—The First Study on ChatGPT 4o and a Comparison to ChatGPT 4.0. Front. Oncol., 14.
+10.1038/s41746-025-01725-9
+10.3390/curroncol31090369
+Sufi, F. (2024). Generative Pre-Trained Transformer (GPT) in Research: A Systematic Review on Data Augmentation. Information, 15.
+10.1002/jso.28121
+10.1016/j.ejca.2024.114100
+10.1016/j.ejso.2025.110096
+{'key': 'ref_19', 'first-page': 'e68808', 'article-title': 'Evaluation of ChatGPT-4’s Performance in Therapeutic Decision-Making During Multidisciplinary Oncology Meetings for Head and Neck Squamous Cell Carcinoma', 'volume': '16', 'author': 'Alami', 'year': '2024', 'journal-title': 'Cureus'}
+Zabaleta, J., Aguinagalde, B., Lopez, I., Fernandez-Monge, A., Lizarbe, J.A., Mainer, M., Ferrer-Bonsoms, J.A., and de Assas, M. (2025). Utility of Artificial Intelligence for Decision Making in Thoracic Multidisciplinary Tumor Boards. J. Clin. Med., 14.
+Schmidl, B., Hütten, T., Pigorsch, S., Stögbauer, F., Hoch, C.C., Hussain, T., Wollenberg, B., and Wirth, M. (2024). Assessing the Role of Advanced Artificial Intelligence as a Tool in Multidisciplinary Tumor Board Decision-Making for Primary Head and Neck Cancer Cases. Front. Oncol., 14.
+10.1007/s12094-025-03905-1
+10.1038/s41523-023-00557-8
+Griewing, S., Gremke, N., Wagner, U., Lingenfelder, M., Kuhn, S., and Boekhoff, J. (2023). Challenging ChatGPT 3.5 in Senology—An Assessment of Concordance with Breast Cancer Tumor Board Decision Making. J. Pers. Med., 13.
+10.1016/j.jhep.2021.07.004
+10.2196/47479
+Holmes, J., Liu, Z., Zhang, L., Ding, Y., Sio, T.T., McGee, L.A., Ashman, J.B., Li, X., Liu, T., and Shen, J. (2023). Evaluating Large Language Models on a Highly-Specialized Topic, Radiation Oncology Physics. Front. Oncol., 13.
+10.1093/oncolo/oyaf038
+Fattah, F.H., Salih, A.M., Salih, A.M., Asaad, S.K., Ghafour, A.K., Bapir, R., Abdalla, B.A., Othman, S., Ahmed, S.M., and Hasan, S.J. (2025). Comparative Analysis of ChatGPT and Gemini (Bard) in Medical Inquiry: A Scoping Review. Front. Digit. Health, 7.
+Hashmi, S.K., Geara, F., Mansour, A., and Aljurf, M. (2022). Cancer Management at Sites with Limited Resources: Challenges and Potential Solutions. The Comprehensive Cancer Center, Springer International Publishing.
+10.1038/s41591-022-01738-x

@@ -1,0 +1,213 @@
+Title: Large Language Models Acting as Multidisciplinary Tumor Boards in Treatment
+Allocation for Hepatocellular Carcinoma
+Table of Contents
+
+    1. Supplementary Tables S1 and S2
+    2. LLM Prompt
+    3. Standardized patient template
+
+                                                             1
+2. Supplementary Table S1. Post-hoc pairwise exact McNemar tests, by
+    recommendation position
+
+Pairwise comparison             n (A yes, B n (A no, B p (exact p (Holm-
+
+                                no)           yes) McNemar) adjusted)
+
+1st recommendation (Cochran's Q, p = 0.0007)
+
+ChatGPT 5 vs Gemini Flash       28            10  0.005               0.031
+
+ChatGPT 5 vs Tumor Board        10            7   0.629               1.000
+ChatGPT
+
+ChatGPT 5 vs Gemini 2.5 Pro     5             4   1.000               1.000
+
+Gemini Flash vs Tumor Board     8             23  0.011               0.043
+ChatGPT
+
+Gemini Flash vs Gemini 2.5 Pro  10            27  0.008               0.038
+
+Tumor Board ChatGPT vs Gemini   8             10  0.815               1.000
+2.5 Pro
+
+2nd recommendation (Cochran's Q, p < 0.0001)
+
+ChatGPT 5 vs Gemini Flash       19            3   <0.001              0.004
+
+ChatGPT 5 vs Tumor Board        6             6   1.000               1.000
+ChatGPT
+
+ChatGPT 5 vs Gemini 2.5 Pro     4             6   0.754               1.000
+
+Gemini Flash vs Tumor Board     5             21  0.002               0.010
+ChatGPT
+
+Gemini Flash vs Gemini 2.5 Pro  2             20  <0.001              <0.001
+
+Tumor Board ChatGPT vs Gemini   4             6   0.754               1.000
+2.5 Pro
+
+3rd recommendation (Cochran's Q, p = 0.048)
+
+ChatGPT 5 vs Gemini Flash       14            5   0.064               0.381
+
+ChatGPT 5 vs Tumor Board        4             4   1.000               1.000
+ChatGPT
+
+ChatGPT 5 vs Gemini 2.5 Pro     6             3   0.508               1.000
+
+                                     2
+     Pairwise comparison        n (A yes, B n (A no, B p (exact p (Holm-
+
+                                no)                        yes) McNemar) adjusted)
+
+Gemini Flash vs Tumor Board     5                          14         0.064  0.381
+ChatGPT
+
+Gemini Flash vs Gemini 2.5 Pro  7                          13         0.263  1.000
+
+Tumor Board ChatGPT vs Gemini   5                          2          0.453  1.000
+2.5 Pro
+
+n( A yes, B no) and n (A no, B yes) are the discordant pair counts, indicate the direction of
+disagreement between the two models.
+
+Supplementary Table S2. Sensitivity and precision reported per treatment categories (with a
+sufficient number of cases > 9 true cases)
+
+Category (small n)        n     ChatGPT                    TB ChatGPT Gemini Flash Gemini Pro
+                                Sens/Prec
+                                                           Sens/Prec  Sens/Prec                Sens/Prec
+
+BSC                       7 0.714 / 1.000 0.714 / 0.833 0.429 / 0.750 0.714 / 1.000
+
+LT, bridge with TACE 7 1.000 / 1.000 0.714 / 0.833 0.714 / 1.000 0.857 / 1.000
+
+Liver transplantation     4 0.750 / 0.300 1.000 / 0.444 0.500 / 0.286 0.750 / 0.429
+
+TARE                      2 0.000 / 0.000 0.000 / 0.000 0.000 / NaN 0.000 / 0.000
+
+LT, bridge with           1     0.000 / NaN 0.000 / NaN 0.000 / NaN 0.000 / NaN
+ablation
+
+Systemic therapy until    1     1.000 / 1.000 0.000 / NaN 0.000 / NaN 1.000 / 1.000
+LT
+
+1. LLM prompt
+
+                                                        3
+Act as a multidisciplinary Tumor Board within an Institute of Gastroenterology, in a tertiary
+hospital setting. The Tumor Board consists of: hepato-biliary and pancreatic surgeon,
+radiologist, interventional radiologist, radiotherapist, gastroenterologist, hepatologist, and
+oncologist.
+You will be provided with a patient case. Follow this process:
+
+        1. Restate the case concisely.
+        2. Present each specialist's reasoning separately.
+        3. Apply the relevant guidelines on HCC treatment: EASL 2018 and AASLD 2018.
+
+             For scenarios involving tumor ablation or chemoembolization, also apply CIRSE
+             guidelines (2019 and 2021).
+        4. When guidelines differ, summarize both views and indicate the choice aligned
+             with our Institute's policy.
+        5. Apply these institutional protocols:
+              o Liver transplantation unavailable before September 2024, available
+
+                   afterwards.
+              o TACE used with curative intent for tumors <3 cm in patients with
+
+                   contraindications for surgery and ablation.
+        6. Provide the consensus treatment recommendation, explicitly stating rationale.
+        7. Suggest alternative options.
+
+    2. Patient template
+
+                                         FORM FOR ALLOCATION TO SPECIFIC TREATMENT
+                                 FOR PATIENTS WITH HEPATOCELLULAR CARCINOMA No. ........
+
+                                                             4
+                                                                   aged  NO  YES, on __/__/____
+signed the informed consent form for treatment
+
+Current clinical and laboratory data
+
+Height           Weight               ascites                             encephalopathy                     ECOG
+LSM                                   Esophageal                         Child-                                       AFP
+Hb               HVPG                 varices                            Pugh                 MELD
+
+                 WBC             PLT                  INR                         Albumin         Total          Direct
+                                                                                                  bilirubin      bilirubin
+                                                                                  Creatinine                 NYHA class
+ALP              GGT             AST            ALT
+                                                                                                                     LVEF
+HBsAg            antiHCV         antiHDV
+
+Medical history
+
+                 date of cirrhosis / nodule(s)  __/__/____ // __/__/____
+                                                NO YES drug ______________ period _______________
+                 diagnosis                      NO YES modality ________________ date ______________
+                                                NO YES type _______________________ date ______________
+liver disease    previous antiviral treatment
+                 previous treatment for liver
+
+                 nodule(s)
+
+                 hepatic decompensation
+
+associated
+
+conditions
+
+current treatments
+
+Imaging                           abdominal US (including                   contrast-enhanced CT                   MRI
+                                               CEUS)
+ date                                                                    NO YES Ben Mal             NO YES Ben Mal
+ no. of nodules                  NO YES Ben Mal                          NO YES group_______        NO YES group_______
+ diameter (largest)              NO YES group_______                     NO YES site ________       NO YES site ________
+ segment                         NO YES site ________
+ LIRADS
+ tumor volume / remaining
+ liver volume
+ PV / HV thrombosis
+ lymph nodes
+ extrahepatic disease
+
+Final diagnosis
+
+BCLC stage                CLIP                  HAP score                    ART score (if applicable)
+                          score
+
+I, the attending physician __________________________, certify the accuracy and completeness of the information
+provided above.
+
+                                                                                                (signature and stamp)
+
+                                                5
+After reviewing the above data, the multidisciplinary committee of IRGH, convened on __/__/____, proposes the
+following therapeutic approach
+
+- first-line treatment
+
+LIVER                                CHEMOEMBOLIZATION (TACE)   CLINICAL TRIALS
+
+TRANSPLANTATION                      COMBINED THERAPY          
+                                     (TACE+RFA/MWA)
+SURGICAL RESECTION  D         L      SYSTEMIC THERAPY          
+                              io  L  SYSTEMIC THERAPY           SYMPTOMATIC TREATMENT
+ ABLATION (RFA/MWA)       pc
+- second-line treatment       L      CHEMOEMBOLIZATION (TACE)         (BSC)
+                              io  L
+ LIVER                               COMBINED THERAPY           CLINICAL TRIALS
+ TRANSPLANTATION                     (TACE+RFA/MWA)
+                                     SYSTEMIC THERAPY          
+SURGICAL RESECTION  D                SYSTEMIC THERAPY
+                                                               
+ABLATION (RFA/MWA)  pc                                          SYMPTOMATIC TREATMENT
+
+                                                                      (BSC)
+
+                                     6
+
